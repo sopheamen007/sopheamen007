@@ -4,3 +4,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vansopheamen/)
 
 ### Glad to see you here! &nbsp;
+
+I am currently creating videos on Mobile Development on Flutter on how to build the most popular apps these days, such as Facebook, Youtube, TikTok, Google App UI, and etc...
+
+If you guys, just come and help me by subscribing to my channel or supporting me on Patreon to keep me alive and I am gonna produce more videos and continue working on an integrated full app with backend side like PHP, NodeJS, or maybe more. 
+
+Hope you liked what I am doing and sharing it with all of you. Furthermore, there is a lot more topic besides Flutter I could think of, like Web Development, and Desktop Development. Thanks. Stay safe and take care. 
+
+If you want to learn all of these? so, what are you waiting for? join the community now. 
+
+
