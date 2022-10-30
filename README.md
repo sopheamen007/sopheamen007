@@ -15,6 +15,7 @@ If you want to learn all of these? so, what are you waiting for? join the commun
 
 Support my work below: 
 
-<a href="https://www.patreon.com/bePatron?u=10530018" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+
+[![Linkedin Badge](https://user-images.githubusercontent.com/16510597/198882327-2075e2c3-2cb6-4019-801e-3bc772829397.png)](https://www.patreon.com/bePatron?u=10530018)
 
 
