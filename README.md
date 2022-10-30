@@ -26,9 +26,9 @@ Support my work below:
 
  
  ### Github Stats:
+ <p>![Sopheamen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopheamen007&theme=dark&show_icons=true)![Sopheamen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sopheamen007&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)</p>
  
- ![Sopheamen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopheamen007&theme=dark&show_icons=true)
 
-  ![Sopheamen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sopheamen007&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+  
 
 
