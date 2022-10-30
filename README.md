@@ -15,4 +15,6 @@ If you want to learn all of these? so, what are you waiting for? join the commun
 
 Support my work below: 
 
+<a href="https://www.patreon.com/bePatron?u=10530018" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 
